@@ -14,11 +14,11 @@ This project has been made using the Python3 language and different python frame
 
 #Installation
 Various packages has been installed on the process. For instance,
-pip install numpy
-pip install sklearn
-pip install matplotlib
-pip intall flask
-pip install gunicorn
+* pip install numpy
+* pip install sklearn
+* pip install matplotlib
+* pip intall flask
+* pip install gunicorn
 
 
 
