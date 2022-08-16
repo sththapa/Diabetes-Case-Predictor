@@ -1,4 +1,5 @@
 <img src="Image1.png"/>
+<img src="Image2.png"/>
 
 # Diabetes-Case-Predictor
 * Overview
